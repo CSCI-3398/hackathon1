@@ -1,0 +1,93 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.14
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.14
+intervals: size = 20
+intervals [1]:
+xmin = 0.0
+xmax = 0.1305
+text = "sil"
+intervals [2]:
+xmin = 0.1305
+xmax = 0.18275
+text = "W"
+intervals [3]:
+xmin = 0.18275
+xmax = 0.2325
+text = "AX"
+intervals [4]:
+xmin = 0.2325
+xmax = 0.2625
+text = "N"
+intervals [5]:
+xmin = 0.2625
+xmax = 0.4255625
+text = "AO"
+intervals [6]:
+xmin = 0.4255625
+xmax = 0.483
+text = "L"
+intervals [7]:
+xmin = 0.483
+xmax = 0.5639375
+text = "EH"
+intervals [8]:
+xmin = 0.5639375
+xmax = 0.596625
+text = "L"
+intervals [9]:
+xmin = 0.596625
+xmax = 0.7186875
+text = "S"
+intervals [10]:
+xmin = 0.7186875
+xmax = 0.7875
+text = "F"
+intervals [11]:
+xmin = 0.7875
+xmax = 0.9775
+text = "EY"
+intervals [12]:
+xmin = 0.9775
+xmax = 1.0725
+text = "L"
+intervals [13]:
+xmin = 1.0725
+xmax = 1.2481875
+text = "Z"
+intervals [14]:
+xmin = 1.2481875
+xmax = 1.2845625
+text = "Y"
+intervals [15]:
+xmin = 1.2845625
+xmax = 1.3925
+text = "UX"
+intervals [16]:
+xmin = 1.3925
+xmax = 1.480375
+text = "Z"
+intervals [17]:
+xmin = 1.480375
+xmax = 1.579625
+text = "F"
+intervals [18]:
+xmin = 1.579625
+xmax = 1.7754375
+text = "AO"
+intervals [19]:
+xmin = 1.7754375
+xmax = 1.953
+text = "S"
+intervals [20]:
+xmin = 1.953
+xmax = 2.14
+text = "sil"

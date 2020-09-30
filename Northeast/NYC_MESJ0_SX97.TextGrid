@@ -1,0 +1,125 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.05
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.05
+intervals: size = 28
+intervals [1]:
+xmin = 0.0
+xmax = 0.1375
+text = "sil"
+intervals [2]:
+xmin = 0.1375
+xmax = 0.168125
+text = "P"
+intervals [3]:
+xmin = 0.168125
+xmax = 0.2781875
+text = "EY"
+intervals [4]:
+xmin = 0.2781875
+xmax = 0.312125
+text = "NG"
+intervals [5]:
+xmin = 0.312125
+xmax = 0.36125
+text = "G"
+intervals [6]:
+xmin = 0.36125
+xmax = 0.3858125
+text = "W"
+intervals [7]:
+xmin = 0.3858125
+xmax = 0.435
+text = "IH"
+intervals [8]:
+xmin = 0.435
+xmax = 0.465625
+text = "N"
+intervals [9]:
+xmin = 0.465625
+xmax = 0.53625
+text = "Z"
+intervals [10]:
+xmin = 0.53625
+xmax = 0.5810625
+text = "EPI"
+intervals [11]:
+xmin = 0.5810625
+xmax = 0.6299375
+text = "L"
+intervals [12]:
+xmin = 0.6299375
+xmax = 0.6816875
+text = "IH"
+intervals [13]:
+xmin = 0.6816875
+xmax = 0.740375
+text = "V"
+intervals [14]:
+xmin = 0.740375
+xmax = 0.785
+text = "N"
+intervals [15]:
+xmin = 0.785
+xmax = 0.905
+text = "IH"
+intervals [16]:
+xmin = 0.905
+xmax = 0.95
+text = "DH"
+intervals [17]:
+xmin = 0.95
+xmax = 1.0521875
+text = "IY"
+intervals [18]:
+xmin = 1.0521875
+xmax = 1.204375
+text = "AY"
+intervals [19]:
+xmin = 1.204375
+xmax = 1.3305625
+text = "S"
+intervals [20]:
+xmin = 1.3305625
+xmax = 1.4229375
+text = "IY"
+intervals [21]:
+xmin = 1.4229375
+xmax = 1.5025
+text = "AE"
+intervals [22]:
+xmin = 1.5025
+xmax = 1.5275
+text = "NX"
+intervals [23]:
+xmin = 1.5275
+xmax = 1.6558125
+text = "AA"
+intervals [24]:
+xmin = 1.6558125
+xmax = 1.72
+text = "R"
+intervals [25]:
+xmin = 1.72
+xmax = 1.75
+text = "DX"
+intervals [26]:
+xmin = 1.75
+xmax = 1.81
+text = "IX"
+intervals [27]:
+xmin = 1.81
+xmax = 1.9375
+text = "K"
+intervals [28]:
+xmin = 1.9375
+xmax = 2.05
+text = "sil"

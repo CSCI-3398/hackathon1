@@ -1,0 +1,213 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 3.675
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 3.675
+intervals: size = 50
+intervals [1]:
+xmin = 0.0
+xmax = 0.135
+text = "sil"
+intervals [2]:
+xmin = 0.135
+xmax = 0.175
+text = "N"
+intervals [3]:
+xmin = 0.175
+xmax = 0.406875
+text = "OW"
+intervals [4]:
+xmin = 0.406875
+xmax = 0.5215
+text = "SH"
+intervals [5]:
+xmin = 0.5215
+xmax = 0.5639375
+text = "IX"
+intervals [6]:
+xmin = 0.5639375
+xmax = 0.6056875
+text = "W"
+intervals [7]:
+xmin = 0.6056875
+xmax = 0.654625
+text = "IX"
+intervals [8]:
+xmin = 0.654625
+xmax = 0.68025
+text = "DCL"
+intervals [9]:
+xmin = 0.68025
+xmax = 0.73
+text = "N"
+intervals [10]:
+xmin = 0.73
+xmax = 0.8575
+text = "AA"
+intervals [11]:
+xmin = 0.8575
+xmax = 0.89975
+text = "TCL"
+intervals [12]:
+xmin = 0.89975
+xmax = 0.9466875
+text = "P"
+intervals [13]:
+xmin = 0.9466875
+xmax = 0.98475
+text = "AXR"
+intervals [14]:
+xmin = 0.98475
+xmax = 1.09125
+text = "T"
+intervals [15]:
+xmin = 1.09125
+xmax = 1.174875
+text = "EH"
+intervals [16]:
+xmin = 1.174875
+xmax = 1.2294375
+text = "N"
+intervals [17]:
+xmin = 1.2294375
+xmax = 1.242625
+text = "D"
+intervals [18]:
+xmin = 1.242625
+xmax = 1.25825
+text = "IX"
+intervals [19]:
+xmin = 1.25825
+xmax = 1.3188125
+text = "M"
+intervals [20]:
+xmin = 1.3188125
+xmax = 1.4575
+text = "AA"
+intervals [21]:
+xmin = 1.4575
+xmax = 1.4825
+text = "DX"
+intervals [22]:
+xmin = 1.4825
+xmax = 1.5525
+text = "EH"
+intervals [23]:
+xmin = 1.5525
+xmax = 1.6344375
+text = "S"
+intervals [24]:
+xmin = 1.6344375
+xmax = 1.69375
+text = "T"
+intervals [25]:
+xmin = 1.69375
+xmax = 1.8075
+text = "IY"
+intervals [26]:
+xmin = 1.8075
+xmax = 1.9725
+text = "PAU"
+intervals [27]:
+xmin = 1.9725
+xmax = 1.99
+text = "B"
+intervals [28]:
+xmin = 1.99
+xmax = 2.0376875
+text = "IX"
+intervals [29]:
+xmin = 2.0376875
+xmax = 2.0838125
+text = "Q"
+intervals [30]:
+xmin = 2.0838125
+xmax = 2.1295
+text = "N"
+intervals [31]:
+xmin = 2.1295
+xmax = 2.209625
+text = "IY"
+intervals [32]:
+xmin = 2.209625
+xmax = 2.2449375
+text = "DH"
+intervals [33]:
+xmin = 2.2449375
+xmax = 2.339125
+text = "AXR"
+intervals [34]:
+xmin = 2.339125
+xmax = 2.40725
+text = "M"
+intervals [35]:
+xmin = 2.40725
+xmax = 2.50125
+text = "AH"
+intervals [36]:
+xmin = 2.50125
+xmax = 2.628125
+text = "SH"
+intervals [37]:
+xmin = 2.628125
+xmax = 2.6825
+text = "IY"
+intervals [38]:
+xmin = 2.6825
+xmax = 2.735
+text = "B"
+intervals [39]:
+xmin = 2.735
+xmax = 2.81
+text = "IY"
+intervals [40]:
+xmin = 2.81
+xmax = 2.9375
+text = "K"
+intervals [41]:
+xmin = 2.9375
+xmax = 2.9758125
+text = "R"
+intervals [42]:
+xmin = 2.9758125
+xmax = 3.0293125
+text = "UX"
+intervals [43]:
+xmin = 3.0293125
+xmax = 3.10425
+text = "D"
+intervals [44]:
+xmin = 3.10425
+xmax = 3.135
+text = "L"
+intervals [45]:
+xmin = 3.135
+xmax = 3.1825
+text = "IY"
+intervals [46]:
+xmin = 3.1825
+xmax = 3.26
+text = "B"
+intervals [47]:
+xmin = 3.26
+xmax = 3.411625
+text = "OW"
+intervals [48]:
+xmin = 3.411625
+xmax = 3.4875
+text = "L"
+intervals [49]:
+xmin = 3.4875
+xmax = 3.5575
+text = "D"
+intervals [50]:
+xmin = 3.5575
+xmax = 3.675
+text = "sil"

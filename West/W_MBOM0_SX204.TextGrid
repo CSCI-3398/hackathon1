@@ -1,0 +1,125 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.12
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.12
+intervals: size = 28
+intervals [1]:
+xmin = 0.0
+xmax = 0.132875
+text = "sil"
+intervals [2]:
+xmin = 0.132875
+xmax = 0.1633125
+text = "Q"
+intervals [3]:
+xmin = 0.1633125
+xmax = 0.2225
+text = "IY"
+intervals [4]:
+xmin = 0.2225
+xmax = 0.2625
+text = "V"
+intervals [5]:
+xmin = 0.2625
+xmax = 0.3075
+text = "IH"
+intervals [6]:
+xmin = 0.3075
+xmax = 0.3406875
+text = "NX"
+intervals [7]:
+xmin = 0.3406875
+xmax = 0.5325
+text = "AY"
+intervals [8]:
+xmin = 0.5325
+xmax = 0.6325
+text = "K"
+intervals [9]:
+xmin = 0.6325
+xmax = 0.757125
+text = "EY"
+intervals [10]:
+xmin = 0.757125
+xmax = 0.833
+text = "ZH"
+intervals [11]:
+xmin = 0.833
+xmax = 0.861875
+text = "EN"
+intervals [12]:
+xmin = 0.861875
+xmax = 0.9111875
+text = "L"
+intervals [13]:
+xmin = 0.9111875
+xmax = 0.9634375
+text = "IY"
+intervals [14]:
+xmin = 0.9634375
+xmax = 1.030625
+text = "G"
+intervals [15]:
+xmin = 1.030625
+xmax = 1.07375
+text = "IH"
+intervals [16]:
+xmin = 1.07375
+xmax = 1.145625
+text = "TCL"
+intervals [17]:
+xmin = 1.145625
+xmax = 1.165
+text = "DH"
+intervals [18]:
+xmin = 1.165
+xmax = 1.1925
+text = "AX"
+intervals [19]:
+xmin = 1.1925
+xmax = 1.2663125
+text = "M"
+intervals [20]:
+xmin = 1.2663125
+xmax = 1.34
+text = "AH"
+intervals [21]:
+xmin = 1.34
+xmax = 1.3998125
+text = "N"
+intervals [22]:
+xmin = 1.3998125
+xmax = 1.437875
+text = "D"
+intervals [23]:
+xmin = 1.437875
+xmax = 1.5125
+text = "EY"
+intervals [24]:
+xmin = 1.5125
+xmax = 1.6331875
+text = "B"
+intervals [25]:
+xmin = 1.6331875
+xmax = 1.70725
+text = "L"
+intervals [26]:
+xmin = 1.70725
+xmax = 1.8754375
+text = "UX"
+intervals [27]:
+xmin = 1.8754375
+xmax = 1.9816875
+text = "Z"
+intervals [28]:
+xmin = 1.9816875
+xmax = 2.12
+text = "sil"

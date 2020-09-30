@@ -1,0 +1,137 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.53
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.53
+intervals: size = 31
+intervals [1]:
+xmin = 0.0
+xmax = 0.1325
+text = "sil"
+intervals [2]:
+xmin = 0.1325
+xmax = 0.183125
+text = "HH"
+intervals [3]:
+xmin = 0.183125
+xmax = 0.235
+text = "IX"
+intervals [4]:
+xmin = 0.235
+xmax = 0.3733125
+text = "S"
+intervals [5]:
+xmin = 0.3733125
+xmax = 0.5525
+text = "AY"
+intervals [6]:
+xmin = 0.5525
+xmax = 0.6711875
+text = "Z"
+intervals [7]:
+xmin = 0.6711875
+xmax = 0.734125
+text = "AH"
+intervals [8]:
+xmin = 0.734125
+xmax = 0.8075
+text = "PCL"
+intervals [9]:
+xmin = 0.8075
+xmax = 0.8575
+text = "DH"
+intervals [10]:
+xmin = 0.8575
+xmax = 0.901875
+text = "IX"
+intervals [11]:
+xmin = 0.901875
+xmax = 1.0260625
+text = "S"
+intervals [12]:
+xmin = 1.0260625
+xmax = 1.1018125
+text = "IH"
+intervals [13]:
+xmin = 1.1018125
+xmax = 1.164375
+text = "TCL"
+intervals [14]:
+xmin = 1.164375
+xmax = 1.221875
+text = "CH"
+intervals [15]:
+xmin = 1.221875
+xmax = 1.2584375
+text = "UH"
+intervals [16]:
+xmin = 1.2584375
+xmax = 1.295
+text = "W"
+intervals [17]:
+xmin = 1.295
+xmax = 1.44125
+text = "EY"
+intervals [18]:
+xmin = 1.44125
+xmax = 1.5874375
+text = "SH"
+intervals [19]:
+xmin = 1.5874375
+xmax = 1.615
+text = "EN"
+intervals [20]:
+xmin = 1.615
+xmax = 1.68925
+text = "IX"
+intervals [21]:
+xmin = 1.68925
+xmax = 1.728125
+text = "N"
+intervals [22]:
+xmin = 1.728125
+xmax = 1.74875
+text = "DCL"
+intervals [23]:
+xmin = 1.74875
+xmax = 1.83025
+text = "CH"
+intervals [24]:
+xmin = 1.83025
+xmax = 1.8825
+text = "UH"
+intervals [25]:
+xmin = 1.8825
+xmax = 1.968125
+text = "K"
+intervals [26]:
+xmin = 1.968125
+xmax = 1.9975
+text = "IX"
+intervals [27]:
+xmin = 1.9975
+xmax = 2.09
+text = "Z"
+intervals [28]:
+xmin = 2.09
+xmax = 2.119375
+text = "HH"
+intervals [29]:
+xmin = 2.119375
+xmax = 2.3368125
+text = "EH"
+intervals [30]:
+xmin = 2.3368125
+xmax = 2.4125
+text = "D"
+intervals [31]:
+xmin = 2.4125
+xmax = 2.53
+text = "sil"

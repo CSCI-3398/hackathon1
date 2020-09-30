@@ -1,0 +1,125 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.135
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.135
+intervals: size = 28
+intervals [1]:
+xmin = 0.0
+xmax = 0.1325
+text = "sil"
+intervals [2]:
+xmin = 0.1325
+xmax = 0.159875
+text = "DH"
+intervals [3]:
+xmin = 0.159875
+xmax = 0.23725
+text = "EH"
+intervals [4]:
+xmin = 0.23725
+xmax = 0.35125
+text = "TCL"
+intervals [5]:
+xmin = 0.35125
+xmax = 0.395
+text = "P"
+intervals [6]:
+xmin = 0.395
+xmax = 0.46375
+text = "IH"
+intervals [7]:
+xmin = 0.46375
+xmax = 0.57125
+text = "KCL"
+intervals [8]:
+xmin = 0.57125
+xmax = 0.620625
+text = "P"
+intervals [9]:
+xmin = 0.620625
+xmax = 0.7141875
+text = "AA"
+intervals [10]:
+xmin = 0.7141875
+xmax = 0.826875
+text = "K"
+intervals [11]:
+xmin = 0.826875
+xmax = 0.8825
+text = "IX"
+intervals [12]:
+xmin = 0.8825
+xmax = 0.9644375
+text = "TCL"
+intervals [13]:
+xmin = 0.9644375
+xmax = 0.998875
+text = "W"
+intervals [14]:
+xmin = 0.998875
+xmax = 1.025625
+text = "AX"
+intervals [15]:
+xmin = 1.025625
+xmax = 1.0730625
+text = "Z"
+intervals [16]:
+xmin = 1.0730625
+xmax = 1.193125
+text = "K"
+intervals [17]:
+xmin = 1.193125
+xmax = 1.3225
+text = "AA"
+intervals [18]:
+xmin = 1.3225
+xmax = 1.389625
+text = "TCL"
+intervals [19]:
+xmin = 1.389625
+xmax = 1.4638125
+text = "R"
+intervals [20]:
+xmin = 1.4638125
+xmax = 1.552
+text = "EH"
+intervals [21]:
+xmin = 1.552
+xmax = 1.5855
+text = "DCL"
+intervals [22]:
+xmin = 1.5855
+xmax = 1.7075625
+text = "HH"
+intervals [23]:
+xmin = 1.7075625
+xmax = 1.8438125
+text = "AE"
+intervals [24]:
+xmin = 1.8438125
+xmax = 1.895875
+text = "N"
+intervals [25]:
+xmin = 1.895875
+xmax = 1.944375
+text = "D"
+intervals [26]:
+xmin = 1.944375
+xmax = 2.0074375
+text = "IX"
+intervals [27]:
+xmin = 2.0074375
+xmax = 2.07125
+text = "DCL"
+intervals [28]:
+xmin = 2.07125
+xmax = 2.135
+text = "sil"

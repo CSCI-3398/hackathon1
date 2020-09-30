@@ -1,0 +1,125 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.845
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.845
+intervals: size = 28
+intervals [1]:
+xmin = 0.0
+xmax = 0.1225
+text = "sil"
+intervals [2]:
+xmin = 0.1225
+xmax = 0.1988125
+text = "Q"
+intervals [3]:
+xmin = 0.1988125
+xmax = 0.2819375
+text = "AE"
+intervals [4]:
+xmin = 0.2819375
+xmax = 0.339375
+text = "NG"
+intervals [5]:
+xmin = 0.339375
+xmax = 0.3975
+text = "G"
+intervals [6]:
+xmin = 0.3975
+xmax = 0.48825
+text = "AO"
+intervals [7]:
+xmin = 0.48825
+xmax = 0.5691875
+text = "R"
+intervals [8]:
+xmin = 0.5691875
+xmax = 0.6375
+text = "AH"
+intervals [9]:
+xmin = 0.6375
+xmax = 0.8015625
+text = "K"
+intervals [10]:
+xmin = 0.8015625
+xmax = 1.0275
+text = "AE"
+intervals [11]:
+xmin = 1.0275
+xmax = 1.0868125
+text = "TCL"
+intervals [12]:
+xmin = 1.0868125
+xmax = 1.185375
+text = "S"
+intervals [13]:
+xmin = 1.185375
+xmax = 1.27875
+text = "Q"
+intervals [14]:
+xmin = 1.27875
+xmax = 1.321125
+text = "AA"
+intervals [15]:
+xmin = 1.321125
+xmax = 1.3625
+text = "R"
+intervals [16]:
+xmin = 1.3625
+xmax = 1.4775
+text = "F"
+intervals [17]:
+xmin = 1.4775
+xmax = 1.6370625
+text = "ER"
+intervals [18]:
+xmin = 1.6370625
+xmax = 1.7284375
+text = "IY"
+intervals [19]:
+xmin = 1.7284375
+xmax = 1.850625
+text = "AXR"
+intervals [20]:
+xmin = 1.850625
+xmax = 1.9085625
+text = "DH"
+intervals [21]:
+xmin = 1.9085625
+xmax = 1.94775
+text = "IX"
+intervals [22]:
+xmin = 1.94775
+xmax = 2.01125
+text = "N"
+intervals [23]:
+xmin = 2.01125
+xmax = 2.1226875
+text = "S"
+intervals [24]:
+xmin = 2.1226875
+xmax = 2.27675
+text = "AY"
+intervals [25]:
+xmin = 2.27675
+xmax = 2.3520625
+text = "M"
+intervals [26]:
+xmin = 2.3520625
+xmax = 2.567625
+text = "IY"
+intervals [27]:
+xmin = 2.567625
+xmax = 2.717875
+text = "Z"
+intervals [28]:
+xmin = 2.717875
+xmax = 2.845
+text = "sil"

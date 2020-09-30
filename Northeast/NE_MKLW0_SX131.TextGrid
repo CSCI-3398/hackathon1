@@ -1,0 +1,121 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.56
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.56
+intervals: size = 27
+intervals [1]:
+xmin = 0.0
+xmax = 0.1318125
+text = "sil"
+intervals [2]:
+xmin = 0.1318125
+xmax = 0.1655
+text = "AX-H"
+intervals [3]:
+xmin = 0.1655
+xmax = 0.3374375
+text = "P"
+intervals [4]:
+xmin = 0.3374375
+xmax = 0.3815625
+text = "L"
+intervals [5]:
+xmin = 0.3815625
+xmax = 0.5041875
+text = "AE"
+intervals [6]:
+xmin = 0.5041875
+xmax = 0.575125
+text = "N"
+intervals [7]:
+xmin = 0.575125
+xmax = 0.6886875
+text = "T"
+intervals [8]:
+xmin = 0.6886875
+xmax = 0.7275
+text = "IX"
+intervals [9]:
+xmin = 0.7275
+xmax = 0.833375
+text = "B"
+intervals [10]:
+xmin = 0.833375
+xmax = 0.9515625
+text = "IH"
+intervals [11]:
+xmin = 0.9515625
+xmax = 1.0175
+text = "L"
+intervals [12]:
+xmin = 1.0175
+xmax = 1.1135625
+text = "D"
+intervals [13]:
+xmin = 1.1135625
+xmax = 1.228625
+text = "EN"
+intervals [14]:
+xmin = 1.228625
+xmax = 1.3311875
+text = "UX"
+intervals [15]:
+xmin = 1.3311875
+xmax = 1.4470625
+text = "B"
+intervals [16]:
+xmin = 1.4470625
+xmax = 1.5763125
+text = "EH"
+intervals [17]:
+xmin = 1.5763125
+xmax = 1.6773125
+text = "V"
+intervals [18]:
+xmin = 1.6773125
+xmax = 1.71375
+text = "R"
+intervals [19]:
+xmin = 1.71375
+xmax = 1.7625
+text = "IH"
+intervals [20]:
+xmin = 1.7625
+xmax = 1.8166875
+text = "DCL"
+intervals [21]:
+xmin = 1.8166875
+xmax = 1.873625
+text = "JH"
+intervals [22]:
+xmin = 1.873625
+xmax = 2.01125
+text = "P"
+intervals [23]:
+xmin = 2.01125
+xmax = 2.0893125
+text = "L"
+intervals [24]:
+xmin = 2.0893125
+xmax = 2.256125
+text = "AE"
+intervals [25]:
+xmin = 2.256125
+xmax = 2.295
+text = "N"
+intervals [26]:
+xmin = 2.295
+xmax = 2.41375
+text = "TCL"
+intervals [27]:
+xmin = 2.41375
+xmax = 2.56
+text = "sil"

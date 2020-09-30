@@ -1,0 +1,121 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.985
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.985
+intervals: size = 27
+intervals [1]:
+xmin = 0.0
+xmax = 0.138125
+text = "sil"
+intervals [2]:
+xmin = 0.138125
+xmax = 0.165625
+text = "B"
+intervals [3]:
+xmin = 0.165625
+xmax = 0.314625
+text = "AY"
+intervals [4]:
+xmin = 0.314625
+xmax = 0.4075
+text = "Q"
+intervals [5]:
+xmin = 0.4075
+xmax = 0.5176875
+text = "IY"
+intervals [6]:
+xmin = 0.5176875
+xmax = 0.569375
+text = "D"
+intervals [7]:
+xmin = 0.569375
+xmax = 0.673625
+text = "IY"
+intervals [8]:
+xmin = 0.673625
+xmax = 0.803625
+text = "NG"
+intervals [9]:
+xmin = 0.803625
+xmax = 0.8694375
+text = "Y"
+intervals [10]:
+xmin = 0.8694375
+xmax = 1.010125
+text = "OW"
+intervals [11]:
+xmin = 1.010125
+xmax = 1.0905625
+text = "G"
+intervals [12]:
+xmin = 1.0905625
+xmax = 1.232375
+text = "ER"
+intervals [13]:
+xmin = 1.232375
+xmax = 1.3811875
+text = "DCL"
+intervals [14]:
+xmin = 1.3811875
+xmax = 1.75625
+text = "PAU"
+intervals [15]:
+xmin = 1.75625
+xmax = 1.8090625
+text = "Y"
+intervals [16]:
+xmin = 1.8090625
+xmax = 1.8825
+text = "UX"
+intervals [17]:
+xmin = 1.8825
+xmax = 1.9585625
+text = "M"
+intervals [18]:
+xmin = 1.9585625
+xmax = 2.1226875
+text = "EY"
+intervals [19]:
+xmin = 2.1226875
+xmax = 2.227125
+text = "L"
+intervals [20]:
+xmin = 2.227125
+xmax = 2.3255
+text = "IH"
+intervals [21]:
+xmin = 2.3255
+xmax = 2.4375
+text = "V"
+intervals [22]:
+xmin = 2.4375
+xmax = 2.491625
+text = "L"
+intervals [23]:
+xmin = 2.491625
+xmax = 2.612375
+text = "AO"
+intervals [24]:
+xmin = 2.612375
+xmax = 2.6961875
+text = "NG"
+intervals [25]:
+xmin = 2.6961875
+xmax = 2.7325
+text = "G"
+intervals [26]:
+xmin = 2.7325
+xmax = 2.8525
+text = "AXR"
+intervals [27]:
+xmin = 2.8525
+xmax = 2.985
+text = "sil"

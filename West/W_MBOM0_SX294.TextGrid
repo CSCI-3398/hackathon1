@@ -1,0 +1,121 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.695
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.695
+intervals: size = 27
+intervals [1]:
+xmin = 0.0
+xmax = 0.143125
+text = "sil"
+intervals [2]:
+xmin = 0.143125
+xmax = 0.26225
+text = "SH"
+intervals [3]:
+xmin = 0.26225
+xmax = 0.3225
+text = "UH"
+intervals [4]:
+xmin = 0.3225
+xmax = 0.4231875
+text = "DCL"
+intervals [5]:
+xmin = 0.4231875
+xmax = 0.46125
+text = "JH"
+intervals [6]:
+xmin = 0.46125
+xmax = 0.5821875
+text = "AXR"
+intervals [7]:
+xmin = 0.5821875
+xmax = 0.80675
+text = "AE"
+intervals [8]:
+xmin = 0.80675
+xmax = 0.858125
+text = "F"
+intervals [9]:
+xmin = 0.858125
+xmax = 0.9675
+text = "S"
+intervals [10]:
+xmin = 0.9675
+xmax = 1.08
+text = "B"
+intervals [11]:
+xmin = 1.08
+xmax = 1.14
+text = "IY"
+intervals [12]:
+xmin = 1.14
+xmax = 1.28625
+text = "K"
+intervals [13]:
+xmin = 1.28625
+xmax = 1.3975
+text = "EH"
+intervals [14]:
+xmin = 1.3975
+xmax = 1.48625
+text = "PCL"
+intervals [15]:
+xmin = 1.48625
+xmax = 1.532625
+text = "T"
+intervals [16]:
+xmin = 1.532625
+xmax = 1.5893125
+text = "EPI"
+intervals [17]:
+xmin = 1.5893125
+xmax = 1.650375
+text = "EN"
+intervals [18]:
+xmin = 1.650375
+xmax = 1.679375
+text = "EPI"
+intervals [19]:
+xmin = 1.679375
+xmax = 1.77375
+text = "S"
+intervals [20]:
+xmin = 1.77375
+xmax = 1.82175
+text = "EPI"
+intervals [21]:
+xmin = 1.82175
+xmax = 1.87
+text = "M"
+intervals [22]:
+xmin = 1.87
+xmax = 2.0
+text = "AO"
+intervals [23]:
+xmin = 2.0
+xmax = 2.0571875
+text = "L"
+intervals [24]:
+xmin = 2.0571875
+xmax = 2.15925
+text = "Z"
+intervals [25]:
+xmin = 2.15925
+xmax = 2.44
+text = "UX"
+intervals [26]:
+xmin = 2.44
+xmax = 2.559375
+text = "Z"
+intervals [27]:
+xmin = 2.559375
+xmax = 2.695
+text = "sil"

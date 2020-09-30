@@ -1,0 +1,133 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 3.06
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 3.06
+intervals: size = 30
+intervals [1]:
+xmin = 0.0
+xmax = 0.5325
+text = "sil"
+intervals [2]:
+xmin = 0.5325
+xmax = 0.548125
+text = "D"
+intervals [3]:
+xmin = 0.548125
+xmax = 0.6275
+text = "OW"
+intervals [4]:
+xmin = 0.6275
+xmax = 0.6625
+text = "N"
+intervals [5]:
+xmin = 0.6625
+xmax = 0.78625
+text = "AE"
+intervals [6]:
+xmin = 0.78625
+xmax = 0.84375
+text = "S"
+intervals [7]:
+xmin = 0.84375
+xmax = 0.8731875
+text = "KCL"
+intervals [8]:
+xmin = 0.8731875
+xmax = 0.920875
+text = "M"
+intervals [9]:
+xmin = 0.920875
+xmax = 0.9609375
+text = "IX"
+intervals [10]:
+xmin = 0.9609375
+xmax = 0.99
+text = "DX"
+intervals [11]:
+xmin = 0.99
+xmax = 1.0343125
+text = "IX"
+intervals [12]:
+xmin = 1.0343125
+xmax = 1.168125
+text = "K"
+intervals [13]:
+xmin = 1.168125
+xmax = 1.233125
+text = "EH"
+intervals [14]:
+xmin = 1.233125
+xmax = 1.30025
+text = "R"
+intervals [15]:
+xmin = 1.30025
+xmax = 1.3368125
+text = "IH"
+intervals [16]:
+xmin = 1.3368125
+xmax = 1.378
+text = "IX"
+intervals [17]:
+xmin = 1.378
+xmax = 1.4144375
+text = "NX"
+intervals [18]:
+xmin = 1.4144375
+xmax = 1.53
+text = "OY"
+intervals [19]:
+xmin = 1.53
+xmax = 1.5821875
+text = "L"
+intervals [20]:
+xmin = 1.5821875
+xmax = 1.666125
+text = "IX"
+intervals [21]:
+xmin = 1.666125
+xmax = 1.7258125
+text = "R"
+intervals [22]:
+xmin = 1.7258125
+xmax = 1.8425
+text = "AE"
+intervals [23]:
+xmin = 1.8425
+xmax = 1.9025
+text = "G"
+intervals [24]:
+xmin = 1.9025
+xmax = 1.953
+text = "L"
+intervals [25]:
+xmin = 1.953
+xmax = 2.0219375
+text = "AY"
+intervals [26]:
+xmin = 2.0219375
+xmax = 2.10125
+text = "KCL"
+intervals [27]:
+xmin = 2.10125
+xmax = 2.1331875
+text = "DH"
+intervals [28]:
+xmin = 2.1331875
+xmax = 2.293125
+text = "AE"
+intervals [29]:
+xmin = 2.293125
+xmax = 2.338375
+text = "TCL"
+intervals [30]:
+xmin = 2.338375
+xmax = 3.06
+text = "sil"

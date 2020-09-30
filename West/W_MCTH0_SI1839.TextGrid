@@ -1,0 +1,125 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.105
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.105
+intervals: size = 28
+intervals [1]:
+xmin = 0.0
+xmax = 0.1461875
+text = "sil"
+intervals [2]:
+xmin = 0.1461875
+xmax = 0.1931875
+text = "Y"
+intervals [3]:
+xmin = 0.1931875
+xmax = 0.25325
+text = "UX"
+intervals [4]:
+xmin = 0.25325
+xmax = 0.368125
+text = "P"
+intervals [5]:
+xmin = 0.368125
+xmax = 0.4464375
+text = "IY"
+intervals [6]:
+xmin = 0.4464375
+xmax = 0.5305625
+text = "P"
+intervals [7]:
+xmin = 0.5305625
+xmax = 0.597875
+text = "EL"
+intervals [8]:
+xmin = 0.597875
+xmax = 0.6675
+text = "D"
+intervals [9]:
+xmin = 0.6675
+xmax = 0.7885
+text = "OW"
+intervals [10]:
+xmin = 0.7885
+xmax = 0.8250625
+text = "Q"
+intervals [11]:
+xmin = 0.8250625
+xmax = 0.926875
+text = "HV"
+intervals [12]:
+xmin = 0.926875
+xmax = 1.04175
+text = "AE"
+intervals [13]:
+xmin = 1.04175
+xmax = 1.0991875
+text = "V"
+intervals [14]:
+xmin = 1.0991875
+xmax = 1.1525
+text = "AX"
+intervals [15]:
+xmin = 1.1525
+xmax = 1.1825
+text = "DCL"
+intervals [16]:
+xmin = 1.1825
+xmax = 1.2325
+text = "JH"
+intervals [17]:
+xmin = 1.2325
+xmax = 1.3075
+text = "AH"
+intervals [18]:
+xmin = 1.3075
+xmax = 1.3603125
+text = "S"
+intervals [19]:
+xmin = 1.3603125
+xmax = 1.4464375
+text = "T"
+intervals [20]:
+xmin = 1.4464375
+xmax = 1.4664375
+text = "AX-H"
+intervals [21]:
+xmin = 1.4664375
+xmax = 1.51575
+text = "B"
+intervals [22]:
+xmin = 1.51575
+xmax = 1.6275
+text = "EL"
+intervals [23]:
+xmin = 1.6275
+xmax = 1.7075625
+text = "V"
+intervals [24]:
+xmin = 1.7075625
+xmax = 1.7975
+text = "IH"
+intervals [25]:
+xmin = 1.7975
+xmax = 1.8925
+text = "ZH"
+intervals [26]:
+xmin = 1.8925
+xmax = 1.946125
+text = "IX"
+intervals [27]:
+xmin = 1.946125
+xmax = 1.9893125
+text = "N"
+intervals [28]:
+xmin = 1.9893125
+xmax = 2.105
+text = "sil"

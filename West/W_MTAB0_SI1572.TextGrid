@@ -1,0 +1,253 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 5.385
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 5.385
+intervals: size = 60
+intervals [1]:
+xmin = 0.0
+xmax = 0.1294375
+text = "sil"
+intervals [2]:
+xmin = 0.1294375
+xmax = 0.18075
+text = "HH"
+intervals [3]:
+xmin = 0.18075
+xmax = 0.25525
+text = "IY"
+intervals [4]:
+xmin = 0.25525
+xmax = 0.353125
+text = "F"
+intervals [5]:
+xmin = 0.353125
+xmax = 0.5261875
+text = "AW"
+intervals [6]:
+xmin = 0.5261875
+xmax = 0.5899375
+text = "N"
+intervals [7]:
+xmin = 0.5899375
+xmax = 0.6019375
+text = "DX"
+intervals [8]:
+xmin = 0.6019375
+xmax = 0.6934375
+text = "EH"
+intervals [9]:
+xmin = 0.6934375
+xmax = 0.7436875
+text = "N"
+intervals [10]:
+xmin = 0.7436875
+xmax = 0.8928125
+text = "AE"
+intervals [11]:
+xmin = 0.8928125
+xmax = 0.936875
+text = "M"
+intervals [12]:
+xmin = 0.936875
+xmax = 1.001875
+text = "PCL"
+intervals [13]:
+xmin = 1.001875
+xmax = 1.033125
+text = "T"
+intervals [14]:
+xmin = 1.033125
+xmax = 1.1044375
+text = "IY"
+intervals [15]:
+xmin = 1.1044375
+xmax = 1.223875
+text = "B"
+intervals [16]:
+xmin = 1.223875
+xmax = 1.3966875
+text = "EH"
+intervals [17]:
+xmin = 1.3966875
+xmax = 1.43475
+text = "N"
+intervals [18]:
+xmin = 1.43475
+xmax = 1.4760625
+text = "TCL"
+intervals [19]:
+xmin = 1.4760625
+xmax = 1.690875
+text = "CH"
+intervals [20]:
+xmin = 1.690875
+xmax = 2.05075
+text = "PAU"
+intervals [21]:
+xmin = 2.05075
+xmax = 2.072
+text = "Q"
+intervals [22]:
+xmin = 2.072
+xmax = 2.157
+text = "OW"
+intervals [23]:
+xmin = 2.157
+xmax = 2.2549375
+text = "P"
+intervals [24]:
+xmin = 2.2549375
+xmax = 2.275
+text = "IX"
+intervals [25]:
+xmin = 2.275
+xmax = 2.36075
+text = "N"
+intervals [26]:
+xmin = 2.36075
+xmax = 2.371625
+text = "DX"
+intervals [27]:
+xmin = 2.371625
+xmax = 2.4256875
+text = "IX"
+intervals [28]:
+xmin = 2.4256875
+xmax = 2.5198125
+text = "N"
+intervals [29]:
+xmin = 2.5198125
+xmax = 2.63875
+text = "UX"
+intervals [30]:
+xmin = 2.63875
+xmax = 2.7310625
+text = "S"
+intervals [31]:
+xmin = 2.7310625
+xmax = 2.8154375
+text = "P"
+intervals [32]:
+xmin = 2.8154375
+xmax = 2.93325
+text = "EY"
+intervals [33]:
+xmin = 2.93325
+xmax = 3.0350625
+text = "P"
+intervals [34]:
+xmin = 3.0350625
+xmax = 3.2283125
+text = "ER"
+intervals [35]:
+xmin = 3.2283125
+xmax = 3.312875
+text = "PAU"
+intervals [36]:
+xmin = 3.312875
+xmax = 3.3265
+text = "Q"
+intervals [37]:
+xmin = 3.3265
+xmax = 3.4216875
+text = "AE"
+intervals [38]:
+xmin = 3.4216875
+xmax = 3.47375
+text = "N"
+intervals [39]:
+xmin = 3.47375
+xmax = 3.5891875
+text = "S"
+intervals [40]:
+xmin = 3.5891875
+xmax = 3.651875
+text = "T"
+intervals [41]:
+xmin = 3.651875
+xmax = 3.6870625
+text = "R"
+intervals [42]:
+xmin = 3.6870625
+xmax = 3.7604375
+text = "EH"
+intervals [43]:
+xmin = 3.7604375
+xmax = 3.7985
+text = "TCL"
+intervals [44]:
+xmin = 3.7985
+xmax = 3.933875
+text = "CH"
+intervals [45]:
+xmin = 3.933875
+xmax = 4.011625
+text = "IH"
+intervals [46]:
+xmin = 4.011625
+xmax = 4.1054375
+text = "Z"
+intervals [47]:
+xmin = 4.1054375
+xmax = 4.1533125
+text = "G"
+intervals [48]:
+xmin = 4.1533125
+xmax = 4.2174375
+text = "L"
+intervals [49]:
+xmin = 4.2174375
+xmax = 4.3609375
+text = "EH"
+intervals [50]:
+xmin = 4.3609375
+xmax = 4.422875
+text = "G"
+intervals [51]:
+xmin = 4.422875
+xmax = 4.502625
+text = "Z"
+intervals [52]:
+xmin = 4.502625
+xmax = 4.5751875
+text = "B"
+intervals [53]:
+xmin = 4.5751875
+xmax = 4.64775
+text = "IY"
+intervals [54]:
+xmin = 4.64775
+xmax = 4.7501875
+text = "F"
+intervals [55]:
+xmin = 4.7501875
+xmax = 4.873625
+text = "AO"
+intervals [56]:
+xmin = 4.873625
+xmax = 4.9293125
+text = "R"
+intervals [57]:
+xmin = 4.9293125
+xmax = 4.97875
+text = "HH"
+intervals [58]:
+xmin = 4.97875
+xmax = 5.143875
+text = "AE"
+intervals [59]:
+xmin = 5.143875
+xmax = 5.2425
+text = "M"
+intervals [60]:
+xmin = 5.2425
+xmax = 5.385
+text = "sil"

@@ -1,0 +1,125 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.495
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.495
+intervals: size = 28
+intervals [1]:
+xmin = 0.0
+xmax = 0.1225
+text = "sil"
+intervals [2]:
+xmin = 0.1225
+xmax = 0.173125
+text = "HH"
+intervals [3]:
+xmin = 0.173125
+xmax = 0.2610625
+text = "IY"
+intervals [4]:
+xmin = 0.2610625
+xmax = 0.3603125
+text = "IH"
+intervals [5]:
+xmin = 0.3603125
+xmax = 0.3994375
+text = "T"
+intervals [6]:
+xmin = 0.3994375
+xmax = 0.526125
+text = "F"
+intervals [7]:
+xmin = 0.526125
+xmax = 0.624
+text = "AO"
+intervals [8]:
+xmin = 0.624
+xmax = 0.69575
+text = "R"
+intervals [9]:
+xmin = 0.69575
+xmax = 0.7278125
+text = "Q"
+intervals [10]:
+xmin = 0.7278125
+xmax = 0.793125
+text = "EH"
+intervals [11]:
+xmin = 0.793125
+xmax = 0.845
+text = "K"
+intervals [12]:
+xmin = 0.845
+xmax = 0.915
+text = "SH"
+intervals [13]:
+xmin = 0.915
+xmax = 0.985625
+text = "T"
+intervals [14]:
+xmin = 0.985625
+xmax = 1.042875
+text = "R"
+intervals [15]:
+xmin = 1.042875
+xmax = 1.1575
+text = "EH"
+intervals [16]:
+xmin = 1.1575
+xmax = 1.221875
+text = "G"
+intervals [17]:
+xmin = 1.221875
+xmax = 1.29
+text = "Z"
+intervals [18]:
+xmin = 1.29
+xmax = 1.37
+text = "F"
+intervals [19]:
+xmin = 1.37
+xmax = 1.438625
+text = "AXR"
+intervals [20]:
+xmin = 1.438625
+xmax = 1.5015625
+text = "B"
+intervals [21]:
+xmin = 1.5015625
+xmax = 1.5430625
+text = "R"
+intervals [22]:
+xmin = 1.5430625
+xmax = 1.61175
+text = "EH"
+intervals [23]:
+xmin = 1.61175
+xmax = 1.6788125
+text = "K"
+intervals [24]:
+xmin = 1.6788125
+xmax = 1.7325
+text = "F"
+intervals [25]:
+xmin = 1.7325
+xmax = 1.80675
+text = "AH"
+intervals [26]:
+xmin = 1.80675
+xmax = 1.898125
+text = "S"
+intervals [27]:
+xmin = 1.898125
+xmax = 1.96
+text = "T"
+intervals [28]:
+xmin = 1.96
+xmax = 2.495
+text = "sil"

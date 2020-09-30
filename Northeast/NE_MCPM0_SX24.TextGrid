@@ -1,0 +1,105 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.155
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.155
+intervals: size = 23
+intervals [1]:
+xmin = 0.0
+xmax = 0.1415
+text = "sil"
+intervals [2]:
+xmin = 0.1415
+xmax = 0.2224375
+text = "AO"
+intervals [3]:
+xmin = 0.2224375
+xmax = 0.2525
+text = "L"
+intervals [4]:
+xmin = 0.2525
+xmax = 0.2929375
+text = "DH"
+intervals [5]:
+xmin = 0.2929375
+xmax = 0.3525625
+text = "OW"
+intervals [6]:
+xmin = 0.3525625
+xmax = 0.4499375
+text = "Q"
+intervals [7]:
+xmin = 0.4499375
+xmax = 0.5368125
+text = "AO"
+intervals [8]:
+xmin = 0.5368125
+xmax = 0.5645
+text = "L"
+intervals [9]:
+xmin = 0.5645
+xmax = 0.6166875
+text = "W"
+intervals [10]:
+xmin = 0.6166875
+xmax = 0.6875
+text = "EY"
+intervals [11]:
+xmin = 0.6875
+xmax = 0.764
+text = "Z"
+intervals [12]:
+xmin = 0.764
+xmax = 0.8025
+text = "AX"
+intervals [13]:
+xmin = 0.8025
+xmax = 0.8699375
+text = "L"
+intervals [14]:
+xmin = 0.8699375
+xmax = 1.0676875
+text = "OW"
+intervals [15]:
+xmin = 1.0676875
+xmax = 1.15875
+text = "N"
+intervals [16]:
+xmin = 1.15875
+xmax = 1.2459375
+text = "W"
+intervals [17]:
+xmin = 1.2459375
+xmax = 1.2875
+text = "IY"
+intervals [18]:
+xmin = 1.2875
+xmax = 1.420875
+text = "S"
+intervals [19]:
+xmin = 1.420875
+xmax = 1.4495625
+text = "AX"
+intervals [20]:
+xmin = 1.4495625
+xmax = 1.5383125
+text = "V"
+intervals [21]:
+xmin = 1.5383125
+xmax = 1.8075
+text = "AY"
+intervals [22]:
+xmin = 1.8075
+xmax = 1.9575
+text = "V"
+intervals [23]:
+xmin = 1.9575
+xmax = 2.155
+text = "sil"

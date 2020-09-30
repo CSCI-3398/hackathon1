@@ -1,0 +1,121 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 3.235
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 3.235
+intervals: size = 27
+intervals [1]:
+xmin = 0.0
+xmax = 0.14425
+text = "sil"
+intervals [2]:
+xmin = 0.14425
+xmax = 0.309375
+text = "S"
+intervals [3]:
+xmin = 0.309375
+xmax = 0.381125
+text = "T"
+intervals [4]:
+xmin = 0.381125
+xmax = 0.613375
+text = "IY"
+intervals [5]:
+xmin = 0.613375
+xmax = 0.693125
+text = "V"
+intervals [6]:
+xmin = 0.693125
+xmax = 0.8276875
+text = "K"
+intervals [7]:
+xmin = 0.8276875
+xmax = 0.8850625
+text = "AX"
+intervals [8]:
+xmin = 0.8850625
+xmax = 0.9346875
+text = "L"
+intervals [9]:
+xmin = 0.9346875
+xmax = 1.093
+text = "EH"
+intervals [10]:
+xmin = 1.093
+xmax = 1.1686875
+text = "K"
+intervals [11]:
+xmin = 1.1686875
+xmax = 1.3049375
+text = "S"
+intervals [12]:
+xmin = 1.3049375
+xmax = 1.3378125
+text = "EPI"
+intervals [13]:
+xmin = 1.3378125
+xmax = 1.4516875
+text = "R"
+intervals [14]:
+xmin = 1.4516875
+xmax = 1.6526875
+text = "EH"
+intervals [15]:
+xmin = 1.6526875
+xmax = 1.7876875
+text = "ER"
+intervals [16]:
+xmin = 1.7876875
+xmax = 1.8786875
+text = "Q"
+intervals [17]:
+xmin = 1.8786875
+xmax = 1.93375
+text = "EH"
+intervals [18]:
+xmin = 1.93375
+xmax = 2.0511875
+text = "N"
+intervals [19]:
+xmin = 2.0511875
+xmax = 2.2255
+text = "AA"
+intervals [20]:
+xmin = 2.2255
+xmax = 2.2880625
+text = "V"
+intervals [21]:
+xmin = 2.2880625
+xmax = 2.3825
+text = "EL"
+intervals [22]:
+xmin = 2.3825
+xmax = 2.5616875
+text = "K"
+intervals [23]:
+xmin = 2.5616875
+xmax = 2.8494375
+text = "OY"
+intervals [24]:
+xmin = 2.8494375
+xmax = 2.918375
+text = "N"
+intervals [25]:
+xmin = 2.918375
+xmax = 2.941625
+text = "EPI"
+intervals [26]:
+xmin = 2.941625
+xmax = 3.1123125
+text = "S"
+intervals [27]:
+xmin = 3.1123125
+xmax = 3.235
+text = "sil"

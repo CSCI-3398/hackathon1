@@ -1,0 +1,125 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.415
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.415
+intervals: size = 28
+intervals [1]:
+xmin = 0.0
+xmax = 0.1435625
+text = "sil"
+intervals [2]:
+xmin = 0.1435625
+xmax = 0.161875
+text = "B"
+intervals [3]:
+xmin = 0.161875
+xmax = 0.203625
+text = "IX"
+intervals [4]:
+xmin = 0.203625
+xmax = 0.3275
+text = "K"
+intervals [5]:
+xmin = 0.3275
+xmax = 0.4125
+text = "EH"
+intervals [6]:
+xmin = 0.4125
+xmax = 0.5025
+text = "F"
+intervals [7]:
+xmin = 0.5025
+xmax = 0.53
+text = "EL"
+intervals [8]:
+xmin = 0.53
+xmax = 0.6025
+text = "N"
+intervals [9]:
+xmin = 0.6025
+xmax = 0.7025
+text = "AA"
+intervals [10]:
+xmin = 0.7025
+xmax = 0.7780625
+text = "T"
+intervals [11]:
+xmin = 0.7780625
+xmax = 0.80675
+text = "AX-H"
+intervals [12]:
+xmin = 0.80675
+xmax = 0.9625
+text = "P"
+intervals [13]:
+xmin = 0.9625
+xmax = 0.9999375
+text = "L"
+intervals [14]:
+xmin = 0.9999375
+xmax = 1.138375
+text = "AW"
+intervals [15]:
+xmin = 1.138375
+xmax = 1.27675
+text = "OW"
+intervals [16]:
+xmin = 1.27675
+xmax = 1.3225
+text = "V"
+intervals [17]:
+xmin = 1.3225
+xmax = 1.3825
+text = "AXR"
+intervals [18]:
+xmin = 1.3825
+xmax = 1.4425
+text = "DH"
+intervals [19]:
+xmin = 1.4425
+xmax = 1.4875
+text = "IX"
+intervals [20]:
+xmin = 1.4875
+xmax = 1.6161875
+text = "F"
+intervals [21]:
+xmin = 1.6161875
+xmax = 1.66575
+text = "L"
+intervals [22]:
+xmin = 1.66575
+xmax = 1.7885
+text = "AW"
+intervals [23]:
+xmin = 1.7885
+xmax = 1.8525
+text = "AXR"
+intervals [24]:
+xmin = 1.8525
+xmax = 1.956
+text = "B"
+intervals [25]:
+xmin = 1.956
+xmax = 2.0975
+text = "EH"
+intervals [26]:
+xmin = 2.0975
+xmax = 2.180125
+text = "D"
+intervals [27]:
+xmin = 2.180125
+xmax = 2.232375
+text = "Z"
+intervals [28]:
+xmin = 2.232375
+xmax = 2.415
+text = "sil"

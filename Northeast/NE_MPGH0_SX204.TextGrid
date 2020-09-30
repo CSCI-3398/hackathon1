@@ -1,0 +1,125 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 2.145
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 2.145
+intervals: size = 28
+intervals [1]:
+xmin = 0.0
+xmax = 0.135
+text = "sil"
+intervals [2]:
+xmin = 0.135
+xmax = 0.1975
+text = "IY"
+intervals [3]:
+xmin = 0.1975
+xmax = 0.2425
+text = "V"
+intervals [4]:
+xmin = 0.2425
+xmax = 0.2825
+text = "IX"
+intervals [5]:
+xmin = 0.2825
+xmax = 0.3225
+text = "N"
+intervals [6]:
+xmin = 0.3225
+xmax = 0.4725625
+text = "AY"
+intervals [7]:
+xmin = 0.4725625
+xmax = 0.5275
+text = "IX"
+intervals [8]:
+xmin = 0.5275
+xmax = 0.644375
+text = "K"
+intervals [9]:
+xmin = 0.644375
+xmax = 0.76875
+text = "EY"
+intervals [10]:
+xmin = 0.76875
+xmax = 0.86875
+text = "SH"
+intervals [11]:
+xmin = 0.86875
+xmax = 0.919
+text = "EN"
+intervals [12]:
+xmin = 0.919
+xmax = 0.966
+text = "L"
+intervals [13]:
+xmin = 0.966
+xmax = 1.0175
+text = "IY"
+intervals [14]:
+xmin = 1.0175
+xmax = 1.0614375
+text = "G"
+intervals [15]:
+xmin = 1.0614375
+xmax = 1.1225
+text = "EH"
+intervals [16]:
+xmin = 1.1225
+xmax = 1.18
+text = "TCL"
+intervals [17]:
+xmin = 1.18
+xmax = 1.200625
+text = "DH"
+intervals [18]:
+xmin = 1.200625
+xmax = 1.2385625
+text = "AX"
+intervals [19]:
+xmin = 1.2385625
+xmax = 1.315125
+text = "M"
+intervals [20]:
+xmin = 1.315125
+xmax = 1.382625
+text = "AH"
+intervals [21]:
+xmin = 1.382625
+xmax = 1.4488125
+text = "N"
+intervals [22]:
+xmin = 1.4488125
+xmax = 1.470375
+text = "D"
+intervals [23]:
+xmin = 1.470375
+xmax = 1.5625
+text = "EY"
+intervals [24]:
+xmin = 1.5625
+xmax = 1.644375
+text = "B"
+intervals [25]:
+xmin = 1.644375
+xmax = 1.7120625
+text = "L"
+intervals [26]:
+xmin = 1.7120625
+xmax = 1.8475
+text = "UW"
+intervals [27]:
+xmin = 1.8475
+xmax = 1.978125
+text = "Z"
+intervals [28]:
+xmin = 1.978125
+xmax = 2.145
+text = "sil"

@@ -1,0 +1,257 @@
+            File type = "ooTextFile"
+            Object class = "TextGrid"
+            xmin = 0.0
+xmax = 4.72
+            tiers? <exists>
+            size = 1
+            item []:
+            item [1]:
+            class = "IntervalTier"
+            name = "phones"
+            xmin = 0.0
+xmax = 4.72
+intervals: size = 61
+intervals [1]:
+xmin = 0.0
+xmax = 0.5225
+text = "sil"
+intervals [2]:
+xmin = 0.5225
+xmax = 0.5875
+text = "IH"
+intervals [3]:
+xmin = 0.5875
+xmax = 0.5990625
+text = "T"
+intervals [4]:
+xmin = 0.5990625
+xmax = 0.6579375
+text = "HV"
+intervals [5]:
+xmin = 0.6579375
+xmax = 0.771875
+text = "AE"
+intervals [6]:
+xmin = 0.771875
+xmax = 0.84625
+text = "Z"
+intervals [7]:
+xmin = 0.84625
+xmax = 0.8903125
+text = "EPI"
+intervals [8]:
+xmin = 0.8903125
+xmax = 0.95
+text = "M"
+intervals [9]:
+xmin = 0.95
+xmax = 1.0433125
+text = "UH"
+intervals [10]:
+xmin = 1.0433125
+xmax = 1.09
+text = "L"
+intervals [11]:
+xmin = 1.09
+xmax = 1.175625
+text = "T"
+intervals [12]:
+xmin = 1.175625
+xmax = 1.208125
+text = "AX"
+intervals [13]:
+xmin = 1.208125
+xmax = 1.3099375
+text = "P"
+intervals [14]:
+xmin = 1.3099375
+xmax = 1.4574375
+text = "EL"
+intervals [15]:
+xmin = 1.4574375
+xmax = 1.5019375
+text = "Q"
+intervals [16]:
+xmin = 1.5019375
+xmax = 1.55925
+text = "IH"
+intervals [17]:
+xmin = 1.55925
+xmax = 1.60575
+text = "M"
+intervals [18]:
+xmin = 1.60575
+xmax = 1.6695
+text = "P"
+intervals [19]:
+xmin = 1.6695
+xmax = 1.70475
+text = "L"
+intervals [20]:
+xmin = 1.70475
+xmax = 1.7425
+text = "AX"
+intervals [21]:
+xmin = 1.7425
+xmax = 1.8575
+text = "K"
+intervals [22]:
+xmin = 1.8575
+xmax = 1.9925
+text = "EY"
+intervals [23]:
+xmin = 1.9925
+xmax = 2.0875
+text = "SH"
+intervals [24]:
+xmin = 2.0875
+xmax = 2.143625
+text = "IX"
+intervals [25]:
+xmin = 2.143625
+xmax = 2.2245625
+text = "N"
+intervals [26]:
+xmin = 2.2245625
+xmax = 2.3065
+text = "Z"
+intervals [27]:
+xmin = 2.3065
+xmax = 2.3670625
+text = "Q"
+intervals [28]:
+xmin = 2.3670625
+xmax = 2.3935
+text = "AX"
+intervals [29]:
+xmin = 2.3935
+xmax = 2.445
+text = "N"
+intervals [30]:
+xmin = 2.445
+xmax = 2.571875
+text = "P"
+intervals [31]:
+xmin = 2.571875
+xmax = 2.694375
+text = "AA"
+intervals [32]:
+xmin = 2.694375
+xmax = 2.785
+text = "S"
+intervals [33]:
+xmin = 2.785
+xmax = 2.8175
+text = "AX"
+intervals [34]:
+xmin = 2.8175
+xmax = 2.88375
+text = "B"
+intervals [35]:
+xmin = 2.88375
+xmax = 2.952375
+text = "EL"
+intervals [36]:
+xmin = 2.952375
+xmax = 3.05625
+text = "HV"
+intervals [37]:
+xmin = 3.05625
+xmax = 3.1425
+text = "EH"
+intervals [38]:
+xmin = 3.1425
+xmax = 3.1675
+text = "DX"
+intervals [39]:
+xmin = 3.1675
+xmax = 3.2656875
+text = "EY"
+intervals [40]:
+xmin = 3.2656875
+xmax = 3.330625
+text = "K"
+intervals [41]:
+xmin = 3.330625
+xmax = 3.395
+text = "S"
+intervals [42]:
+xmin = 3.395
+xmax = 3.485625
+text = "F"
+intervals [43]:
+xmin = 3.485625
+xmax = 3.516375
+text = "UX"
+intervals [44]:
+xmin = 3.516375
+xmax = 3.563375
+text = "Y"
+intervals [45]:
+xmin = 3.563375
+xmax = 3.61
+text = "AXR"
+intervals [46]:
+xmin = 3.61
+xmax = 3.679125
+text = "M"
+intervals [47]:
+xmin = 3.679125
+xmax = 3.7608125
+text = "AA"
+intervals [48]:
+xmin = 3.7608125
+xmax = 3.8075
+text = "R"
+intervals [49]:
+xmin = 3.8075
+xmax = 3.9
+text = "K"
+intervals [50]:
+xmin = 3.9
+xmax = 3.915
+text = "IX"
+intervals [51]:
+xmin = 3.915
+xmax = 3.95
+text = "DX"
+intervals [52]:
+xmin = 3.95
+xmax = 3.9975
+text = "IY"
+intervals [53]:
+xmin = 3.9975
+xmax = 4.047375
+text = "NG"
+intervals [54]:
+xmin = 4.047375
+xmax = 4.173125
+text = "P"
+intervals [55]:
+xmin = 4.173125
+xmax = 4.21125
+text = "R"
+intervals [56]:
+xmin = 4.21125
+xmax = 4.2875
+text = "OW"
+intervals [57]:
+xmin = 4.2875
+xmax = 4.380625
+text = "G"
+intervals [58]:
+xmin = 4.380625
+xmax = 4.4354375
+text = "R"
+intervals [59]:
+xmin = 4.4354375
+xmax = 4.558625
+text = "AE"
+intervals [60]:
+xmin = 4.558625
+xmax = 4.6026875
+text = "M"
+intervals [61]:
+xmin = 4.6026875
+xmax = 4.72
+text = "sil"
