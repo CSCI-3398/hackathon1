@@ -13,7 +13,7 @@ In the `hackathon1.ipynb` file, I have given you code that extracts some basic s
 I've provided two baselines: the majority class baseline, and a baseline using the sorts of features we've  extracted before (mean pitch, mean intensity, duration, and mean F1 in vowel segments). I've used parselmouth here, but you are free to use Praat directly and then save out the features to files that you then read in with Python to do classification.
 
 ### Teams
-I divided you into teams based on your time zone, operating system, and stated comfort level with Python. You should be able to contact each other 
+I divided you into teams based on your time zone, operating system, and stated comfort level with Python. You should be able to contact each other using the course page in Canvas, but exchange your info today just in case.
 
 * Team 1: Grace, Kieran, Kim (Kim-An), Yuezhen
 * Team 2: Shahzad, Amalia, Cosette, Aidan
