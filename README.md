@@ -24,7 +24,7 @@ I divided you into teams based on your time zone, operating system, and stated c
 * Team 7: Ben (Benjamin), Kyu (Kyu-Hun), Will (William), Jacqueline
 * Team 8: Matt (Matthew), Rachel, Kamil, Jeffery (Zhihao)
 * Team 9: Ian, Zion, Immalla, Mark N. (Hao)
-* Team 10: Allen, Adri (Adriana), Gary (Chengxiao), Yuxuan
+* Team 10: Allen, Adri (Adriana), Gary (Chengxiao), Yuxuan, Mingzhuo
 
 
 ---
