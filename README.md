@@ -12,6 +12,21 @@ In the `hackathon1.ipynb` file, I have given you code that extracts some basic s
 ### Baselines
 I've provided two baselines: the majority class baseline, and a baseline using the sorts of features we've  extracted before (mean pitch, mean intensity, duration, and mean F1 in vowel segments). I've used parselmouth here, but you are free to use Praat directly and then save out the features to files that you then read in with Python to do classification.
 
+### Teams
+I divided you into teams based on your time zone, operating system, and stated comfort level with Python. You should be able to contact each other 
+
+* Team 1: Grace, Kieran, Kim (Kim-An), Yuezhen
+* Team 2: Shahzad, Amalia, Cosette, Aidan
+* Team 3: Auberta (Ying), Erik, Anna, Jason 
+* Team 4: Maddie (Madeline), Lurein (Gamamada), Erin B., Erin C., Jack M.
+* Team 5: Ramzi, Evi (Paraskevi Maria), Lindsay, Christine, Alex (Anran)
+* Team 6: Xin, Mark S. (Yicheng), Roger, RJ (Robert)
+* Team 7: Ben (Benjamin), Kyu (Kyu-Hun), Will (William), Jacqueline
+* Team 8: Matt (Matthew), Rachel, Kamil, Jeffery (Zhihao)
+* Team 9: Ian, Zion, Immalla, Mark N. (Hao)
+* Team 10: Allen, Adri (Adriana), Gary (Chengxiao), Yuxuan
+
+
 ---
 
 ## Schedule of activities
