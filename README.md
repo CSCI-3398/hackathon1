@@ -15,8 +15,8 @@ I've provided two baselines: the majority class baseline, and a baseline using t
 ### Teams
 I divided you into teams based on your time zone, operating system, and stated comfort level with Python. You should be able to contact each other using the course page in Canvas, but exchange your info today just in case.
 
-* Team 1: Grace, Kieran, Kim (Kim-An), Yuezhen
-* Team 2: Shahzad, Amalia, Cosette, Aidan
+* Team 1: Grace, Kieran, Kim (Kim-An), Yuezhen, Adri
+* Team 2: Shahzad, Amalia, Cosette, Aidanm, Allen
 * Team 3: Auberta (Ying), Erik, Anna, Jason 
 * Team 4: Maddie (Madeline), Lurein (Gamamada), Erin B., Erin C., Jack M.
 * Team 5: Ramzi, Evi (Paraskevi Maria), Lindsay, Christine, Alex (Anran)
@@ -24,7 +24,7 @@ I divided you into teams based on your time zone, operating system, and stated c
 * Team 7: Ben (Benjamin), Kyu (Kyu-Hun), Will (William), Jacqueline
 * Team 8: Matt (Matthew), Rachel, Kamil, Jeffery (Zhihao)
 * Team 9: Ian, Zion, Immalla, Mark N. (Hao)
-* Team 10: Allen, Adri (Adriana), Gary (Chengxiao), Yuxuan, Mingzhuo
+* Team 10: Gary (Chengxiao), Yuxuan, Mingzhuo
 
 
 ---
